@@ -1,0 +1,16 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Build output
+Debug/
+Release/
+
+# IDE local / cache
+_history/
+*.dproj.local
+*.identcache
+
+# Delphi intermediate files
+*.dcu
+*.~*
+*.local
+*.bak
+*.cfg
